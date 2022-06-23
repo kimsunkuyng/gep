@@ -1,0 +1,20 @@
+package com.gep.app.board.dto;
+
+public class boardDto {
+	private String boardIndex;
+	private String boardCatIndex;
+	private String boardTitle;
+	private String boardContents;
+	private String userIndex;
+	private String boardWriter;
+	private String boardWriterPw;
+	private String boardDate;
+	private String boardPw;
+	private String boardHighlight;
+	private String boardCount;
+	private String boardPw;
+	private String boardPw;
+	private String boardPw;
+	private String boardPw;
+	private String boardPw;
+}

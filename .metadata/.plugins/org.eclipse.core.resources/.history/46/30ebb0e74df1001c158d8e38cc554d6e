@@ -1,0 +1,5 @@
+package com.gep.app.board.dto;
+
+public class boardDto {
+	private String boardIndex;
+}

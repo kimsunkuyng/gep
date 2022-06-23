@@ -1,0 +1,5 @@
+package com.gep.app.activity.dto;
+
+public class activityDto {
+	private String 
+}

@@ -1,0 +1,17 @@
+package com.gep.app.board.dto;
+
+public class boardDto {
+	private String boardTitle;
+	private String boardContents;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+	private String boardTitle;
+}

@@ -1,0 +1,94 @@
+package com.gep.app.activity.dto;
+
+public class activityDto {
+	private String activityTitle;
+	private String activityContents;
+	private String activityDate;
+	private String activityCount;
+	private String activityImg;
+	private String activityVideo;
+//	activity category
+	private String activityCatName;
+//	user
+	private String userName;
+//	comment
+	private String boardCommentWriter;
+	private String boardCommentWriterPw;
+	private String boardCommentDate;
+//	secret comment
+	private String boardCommentPw;
+	
+	public String getActivityTitle() {
+		return activityTitle;
+	}
+	public void setActivityTitle(String activityTitle) {
+		this.activityTitle = activityTitle;
+	}
+	public String getActivityContents() {
+		return activityContents;
+	}
+	public void setActivityContents(String activityContents) {
+		this.activityContents = activityContents;
+	}
+	public String getActivityDate() {
+		return activityDate;
+	}
+	public void setActivityDate(String activityDate) {
+		this.activityDate = activityDate;
+	}
+	public String getActivityCount() {
+		return activityCount;
+	}
+	public void setActivityCount(String activityCount) {
+		this.activityCount = activityCount;
+	}
+	public String getActivityImg() {
+		return activityImg;
+	}
+	public void setActivityImg(String activityImg) {
+		this.activityImg = activityImg;
+	}
+	public String getActivityVideo() {
+		return activityVideo;
+	}
+	public void setActivityVideo(String activityVideo) {
+		this.activityVideo = activityVideo;
+	}
+	public String getActivityCatName() {
+		return activityCatName;
+	}
+	public void setActivityCatName(String activityCatName) {
+		this.activityCatName = activityCatName;
+	}
+	public String getUserName() {
+		return userName;
+	}
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+	public String getBoardCommentWriter() {
+		return boardCommentWriter;
+	}
+	public void setBoardCommentWriter(String boardCommentWriter) {
+		this.boardCommentWriter = boardCommentWriter;
+	}
+	public String getBoardCommentWriterPw() {
+		return boardCommentWriterPw;
+	}
+	public void setBoardCommentWriterPw(String boardCommentWriterPw) {
+		this.boardCommentWriterPw = boardCommentWriterPw;
+	}
+	public String getBoardCommentDate() {
+		return boardCommentDate;
+	}
+	public void setBoardCommentDate(String boardCommentDate) {
+		this.boardCommentDate = boardCommentDate;
+	}
+	public String getBoardCommentPw() {
+		return boardCommentPw;
+	}
+	public void setBoardCommentPw(String boardCommentPw) {
+		this.boardCommentPw = boardCommentPw;
+	}
+	
+}

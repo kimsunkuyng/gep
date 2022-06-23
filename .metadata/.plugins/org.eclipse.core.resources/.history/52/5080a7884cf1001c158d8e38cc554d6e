@@ -1,0 +1,20 @@
+package com.gep.app.activity.dto;
+
+public class activityDto {
+	private String activityTitle;
+	private String activityContents;
+	private String activityDate;
+	private String activityCount;
+	private String activityImg;
+	private String activityVideo;
+//	activity category
+	private String activityCatName;
+//	user
+	private String userName;
+//	comment
+	private String boardCommentWriter;
+	private String boardCommentWriterPw;
+	private String boardCommentDate;
+//	secret comment
+	private String boardCommentPw;
+}

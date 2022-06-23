@@ -1,0 +1,9 @@
+package com.gep.app.user.dto;
+
+public class userDto {
+	private String userIndex;
+	private String userIndex;
+	private String userIndex;
+	private String userIndex;
+	private String userIndex;
+}

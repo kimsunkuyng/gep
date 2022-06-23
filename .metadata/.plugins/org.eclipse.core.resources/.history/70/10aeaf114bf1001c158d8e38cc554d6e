@@ -1,0 +1,12 @@
+package com.gep.app.activity.dto;
+
+public class activityDto {
+	private String activityTitle;
+	private String activityCatName;
+	private String activityContents;
+	private String userName;
+	private String activityDate;
+	private String activityTitle;
+	private String activityTitle;
+	private String activityTitle;
+}
