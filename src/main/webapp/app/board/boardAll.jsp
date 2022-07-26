@@ -151,7 +151,7 @@
           </div>
         </div>
        	  <!-- 로그인 시만 -->
-		  <a href="" style="float: right;" class="btn btn-primary px-4">글쓰기</a>
+		  <a href="${pageContext.request.contextPath }" style="float: right;" class="btn btn-primary px-4">글쓰기</a>
 	  </div>	  
     </div>
     <!-- Gallery End -->
